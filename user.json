@@ -1,0 +1,64 @@
+[{
+    "id" : "50",
+    "user": "Divya",
+    "attendance": true,
+    "codekata": 100,
+    "topic" : "sql",
+     "task": "create database ",
+     "company_drives": "infosys",
+     "mentor" : "Ragav",
+     "Date" : ISODate("2021-10-18T14:10:30.000Z"),
+    "isappeared" : true
+},
+{
+    "id" : "51",
+    "user": "Rithika",
+    "attendance": false,
+    "codekata": 120,
+    "topic" : "mongo",
+     "task": "create collection ",
+     "company_drives": "paypal",
+     "mentor" : "Suman",
+     "Date" : ISODate("2021-10-01T14:10:30.000Z"),
+    "isappeared" : true
+},
+{
+    "id" : "52",
+    "user": "Karthik",
+    "attendance": true,
+    "codekata": 90,
+    "topic" : "node",
+     "task": "create a port ",
+     "company_drives": "infosys",
+     "mentor" : "Ragav",
+     "Date" : ISODate("2021-10-18T14:10:30.000Z"),
+    "isappeared" : false
+},
+{
+    "id" : "53",
+    "user": "Krithika",
+    "attendance": false,
+    "codekata": 130,
+    "topic" : "mongo CRUD",
+     "task": "create database & CRUD ",
+     "company_drives": "wipro",
+     "mentor" : "Ragav",
+     "Date" : ISODate("2021-12-18T14:10:30.000Z"),
+    "isappeared" : true
+},{
+    "id" : "54",
+    "user": "Ram",
+    "attendance": true,
+    "codekata": 80,
+    "topic" : "mysql",
+     "task": "create database ",
+     "company_drives": "infosys",
+     "mentor" : "Mohan",
+     "Date" : ISODate("2021-10-24T14:10:30.000Z"),
+    "isappeared" : false
+}
+]    
+
+
+
+
